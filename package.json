@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "netlify-cert-fetch",
+  "version": "1.0.0",
+  "description": "Fetch HTTPS certificate via Netlify Functions",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
